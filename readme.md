@@ -2,6 +2,9 @@
 
 NovaCore adalah *landing page* modern yang dirancang untuk platform infrastruktur pengembang. Mengusung filosofi desain yang bersih, minimalis, dan berfokus pada pengalaman pengembang (*developer-first*), antarmuka ini memberikan kesan profesional sekaligus teknis.
 
+![alt text](image.png)
+
+
 ## 🚀 Fitur Utama
 
 * **Desain Minimalis:** Mengikuti estetika desain modern dengan tipografi yang presisi dan hierarki visual yang jelas.
