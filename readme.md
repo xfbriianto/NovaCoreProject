@@ -51,7 +51,7 @@ npm run dev
 
 yarn dev
 
-```
+
 4.  Buka [http://localhost:5173](http://localhost:5173) di peramban Anda.
 
 ## 🎨 Panduan Desain
@@ -66,7 +66,3 @@ Proyek ini menggunakan prinsip desain sebagai berikut:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ***
-
-Apakah ada bagian teknis spesifik (seperti cara *deploy* atau konfigurasi tambahan) yang ingin Anda tambahkan ke dalam README ini?
-
-```
